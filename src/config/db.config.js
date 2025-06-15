@@ -4,7 +4,7 @@ const config = {
         host: process.env.HOST || "localhost",
         database: process.env.DATABASE || "accounts",
         password: process.env.PASSWORD || "postgres@1234",
-        port: 5432
+        port: 5433
     }
 }
 
